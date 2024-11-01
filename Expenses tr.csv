@@ -1,0 +1,65 @@
+﻿;Fixed Expenses;Rent;Insurance;;
+;Variable Expenses;;;;
+;Income;Groceries;Investment;;
+;Savings;Dining Out;;;
+;;Utilities;;;
+;;Transportation;;;
+;;Emergency Fund;;;
+;;Clothing;;;
+;;Entertainment;;;
+;;Healthcare;;;
+;;Other;;;
+;;;;;
+;;;;;
+Date;Category;Description;Budget Amount;Actual Amount;Difference
+01-Jun-24;Income;Salary;500;500;0
+03-Jun-24;Fixed Expenses;Rent;150;150;0
+05-Jun-24;Fixed Expenses;Groceries;120;100;20
+06-Jun-24;Variable Expenses;Dining Out;50;50;0
+07-Jun-24;Income;Freelance;200;220;20
+10-Jun-24;Variable Expenses;Utilities;80;80;0
+12-Jun-24;Fixed Expenses;Transportation;30;35;-5
+15-Jun-24;Savings;Emergency Fund;100;100;0
+18-Jun-24;Fixed Expenses;Insurance;80;80;0
+20-Jun-24;Variable Expenses;Entertainment;40;50;-10
+21-Jun-24;Variable Expenses;Clothing;40;45;-5
+22-Jun-24;Income;Investment;150;176;26
+25-Jun-24;Variable Expenses;Groceries;20;18;2
+27-Jun-24;Savings;Retirement Fund;100;100;0
+30-Jun-24;Variable Expenses;Other;10;10;0
+01-Jul-24;Variable Expenses;Healthcare;50;50;0
+02-Jul-24;Fixed Expenses;Transportation;30;32;-2
+03-Jul-24;Income;Salary;500;500;0
+04-Jul-24;Fixed Expenses;Rent;150;150;0
+05-Jul-24;Fixed Expenses;Groceries;120;100;20
+08-Jul-24;Income;Investment;150;120;-30
+09-Jul-24;Variable Expenses;Utilities;80;80;0
+11-Jul-24;Savings;Emergency Fund;100;100;0
+13-Jul-24;Variable Expenses;Dining Out;50;55;-5
+14-Jul-24;Variable Expenses;Other;40;40;0
+15-Jul-24;Savings;Retirement Fund;100;100;0
+16-Jul-24;Income;Freelance;150;200;50
+18-Jul-24;Fixed Expenses;Insurance;80;80;0
+21-Jul-24;Variable Expenses;Utilities;10;10;0
+23-Jul-24;Variable Expenses;Dining Out;30;30;0
+27-Jul-24;Variable Expenses;Other;10;10;0
+29-Jul-24;Income;Investment;50;62;12
+31-Jul-24;Variable Expenses;Entertainment;40;55;-15
+01-Aug-24;Fixed Expenses;Transportation;30;30;0
+02-Aug-24;Income;Salary;500;500;0
+03-Aug-24;Fixed Expenses;Rent;150;150;0
+04-Aug-24;Fixed Expenses;Groceries;120;100;20
+07-Aug-24;Variable Expenses;Utilities;50;50;0
+08-Aug-24;Variable Expenses;Dining Out;50;50;0
+10-Aug-24;Savings;Emergency Fund;100;100;0
+12-Aug-24;Income;Freelance;50;60;10
+13-Aug-24;Savings;Retirement Fund;100;100;0
+15-Aug-24;Income;Investment;150;120;-30
+17-Aug-24;Variable Expenses;Groceries;20;20;0
+18-Aug-24;Fixed Expenses;Insurance;80;80;0
+20-Aug-24;Variable Expenses;Healthcare;50;50;0
+22-Aug-24;Income;Freelance;150;200;50
+26-Aug-24;Variable Expenses;Transportation;10;10;0
+28-Aug-24;Variable Expenses;Healthcare;30;20;10
+29-Aug-24;Income;Freelance;50;60;10
+31-Aug-24;Variable Expenses;Other;20;20;0
