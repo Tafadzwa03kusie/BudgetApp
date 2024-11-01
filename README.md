@@ -15,4 +15,10 @@ The **Personal Finance Dashboard** is a budget management application built usin
 - pandas
 - Plotly
 
+## Usage
+-Open the app in your browser
+-Use the sidebar to navigate between different functionalities: Budget Management, Budget Planning, Reporting, and Data Visualization.
+-Follow the on-screen instructions to manage budgets, input expenses, and view reports.
 
+## Author
+*Tafadzwa Melissa Kusikwenyu*
